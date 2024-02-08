@@ -1,6 +1,3 @@
-
-
-
 /*
 
 PINOUT:
@@ -17,7 +14,7 @@ RST             D9           D8
 
 *
 
-* Include the standard Arduino SPI library */
+* Include the standard Arduino SPI library *
 #include <SPI.h>
 /* Include the RFID library */
 #include "RFID.h"
